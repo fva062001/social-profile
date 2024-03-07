@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import myselfImage from '/public/myself.jpeg';
+import myselfImage from '../../public/myself.jpeg';
 import UserImage from '@/components/UserImage';
 import UserMainInfo from '@/components/UserMainInfo';
 import UserLinks from '@/components/UserLinks';
